@@ -159,3 +159,4 @@ Full interactive docs at `http://localhost:8000/docs`
 - **Database**: PostgreSQL 16 · Redis 7
 - **Social APIs**: Twitter v2 (Tweepy) · LinkedIn API v2 · Meta Graph API
 - **Infra**: Docker · Docker Compose · Nginx
+http://192.168.0.110:3000
